@@ -1,0 +1,8 @@
+@media screen and (max-width: 700px) {
+    .main{
+       display: none;
+}
+.welcome{
+    width: 100%;
+}
+}
